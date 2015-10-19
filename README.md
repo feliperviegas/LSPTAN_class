@@ -15,7 +15,7 @@ Compile using make.
 
 execute the script:
 
-bash execute_lsptan.sh \<train\> \<test\> <alpha parameter> <lambda parameter> <GPU device>
+bash execute_lsptan.sh \<train\> \<test\> \<alpha parameter\> \<lambda parameter\> \<GPU device\>
 
 output file: res_lsptan.dat
 
