@@ -13,7 +13,11 @@ The termId must star with 1.
 To compile you must have CUDA installed.
 Compile using make. 
 
+execute the script:
 
+bash execute_lsptan.sh <train> <test> <alpha parameter> <lambda parameter> <GPU device>
+
+output file: res_lsptan.dat
 
 
 If you have any questions, please contact me: feliperviegas@gmail.com
